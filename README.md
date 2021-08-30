@@ -1,4 +1,3 @@
-# HackerRank
 
 <p align="center">
     <a href="https://www.hackerrank.com/alicia_morillo87">
@@ -6,4 +5,4 @@
     </a>
 </p>
 
-This repository contains my hackerrank solutions for hackerrank challenges.
+This repository contains my solutions for hackerrank challenges.
