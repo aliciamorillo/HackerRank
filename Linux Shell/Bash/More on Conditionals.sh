@@ -1,3 +1,6 @@
+# Given three integers (X, Y and Z) representing the three sides of a triangle, 
+# identify whether the triangle is scalene, isosceles, or equilateral.
+
 read x
 read y
 read z
