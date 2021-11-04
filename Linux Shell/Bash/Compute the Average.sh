@@ -1,4 +1,4 @@
-#Given N integers, compute their average, rounded to three decimal places.
+# Given N integers, compute their average, rounded to three decimal places.
 
 sum = 0
 read N
