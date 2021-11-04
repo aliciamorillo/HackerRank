@@ -1,3 +1,5 @@
+# This challenge involves the construction of trees, in the form of ASCII Art.
+
 declare -A a
 
 f() {
