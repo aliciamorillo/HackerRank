@@ -1,0 +1,4 @@
+A database table with three fields (bookname, author, language) has been created.
+If the table is as provided below, which of these three fields may be used as the primary key?
+
+ANSWER: bookname
