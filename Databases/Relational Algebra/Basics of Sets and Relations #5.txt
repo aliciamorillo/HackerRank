@@ -1,0 +1,4 @@
+Consider the following data table named Student:
+What is the count of rows returned in the following relational selection?
+
+RESULT: 2

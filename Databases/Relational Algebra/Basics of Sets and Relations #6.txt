@@ -1,0 +1,5 @@
+Consider the following data table named Student:
+What is the count of attributes (columns) returned in the following projection?
+π(Name, Number)(Student)
+
+RESULT: 2

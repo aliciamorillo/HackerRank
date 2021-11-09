@@ -1,0 +1,7 @@
+Consider the following data table named Student:
+Here is another data table named Teaching Assistants:
+
+What is the count of rows returned in the following join operation?
+Student ⊳⊲(Number=ID) Teaching Assistants
+
+RESULT: 2
