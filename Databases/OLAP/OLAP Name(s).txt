@@ -1,0 +1,4 @@
+Which of these are alternate names for an OLAP Cube? 
+
+ANSWER: Both (B) and (C)
+Multidimensional Cube + HyperCube
