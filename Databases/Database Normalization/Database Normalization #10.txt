@@ -1,0 +1,6 @@
+The following table stores rows of information about pizza deliveries. 
+The three columns correspond to the Restaurant name, Crust, Delivery Area. 
+We convert this table into Fourth Normal Form and so we end up creating two tables, each with two columns and N rows. 
+(Both the new tables have an equal number of rows)
+
+ANSWER: 6
